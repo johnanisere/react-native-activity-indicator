@@ -1,13 +1,13 @@
 {
   "name": "react-native-activity-indicator",
   "description": "A unified and cross-platform activity indicator component for React Native.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "activityIndicator.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sonaye/react-native-activity-indicator.git"
   },
-  "peerDependencies": {
+  "dependencies": {
     "react-native-progress": "^3.2.1"
   }
 }
