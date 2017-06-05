@@ -37,8 +37,8 @@ const Example = () => (
     }}>
     <ActivityIndicator />
     <ActivityIndicator animating={false} />
-    <ActivityIndicator color="blue" />
-    <ActivityIndicator color={['red', 'green', 'blue']} />
+    <ActivityIndicator color="#4285f4" />
+    <ActivityIndicator color={['#db4437', '#0f9d58', '#4285f4']} />
     <ActivityIndicator duration={1000} />
     <ActivityIndicator size="large" />
     <ActivityIndicator size={24} />
