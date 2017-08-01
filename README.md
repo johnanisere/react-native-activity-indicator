@@ -4,7 +4,7 @@
 Based on [react-native-progress](https://github.com/oblador/react-native-progress#progresscirclesnail).
 
 # Installation
-`yarn add react-native-activity-indicator`
+`yarn add react-native-progress react-native-activity-indicator`
 
 # Definition
 Same API as [ActivityIndicator](https://facebook.github.io/react-native/docs/activityindicator.html) with two extra customization props `duration` and `thickness`.
