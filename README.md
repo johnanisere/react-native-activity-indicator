@@ -3,6 +3,8 @@
 
 Based on [react-native-progress](https://github.com/oblador/react-native-progress#progresscirclesnail).
 
+`react-native-progress` may require native linking, see package repository for more details.
+
 # Installation
 `yarn add react-native-progress react-native-activity-indicator`
 
